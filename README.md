@@ -41,7 +41,7 @@ Please download the dataset from the provided source, or if you have your own da
 To get started, clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/devamoorthi/Nanmuthalvan-AI-Project.git
+git clone https://github.com/meenatchii/Nanmuthalvan-AI-Project.git
 ```
 
 cd fake-news-detection
